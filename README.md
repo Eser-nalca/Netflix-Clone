@@ -12,10 +12,9 @@ Final project for Kodluyoruz Hatay 131. Front-End Development Bootcamp.
 
 ### 
 
-![Homepage](./src/assets/screenshots/Homepage.gif)
-
+![Favorites](./src/assets/screenshots/Favorites.gif)
 
 
 ###
 
-![Favorites](./src/assets/screenshots/Favorites.gif)
+![Homepage](./src/assets/screenshots/Homepage.gif)
